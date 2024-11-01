@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TT Donation Checkout for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-19 08:23+0000\n"
+"PO-Revision-Date: 2022-06-20 11:44+0000\n"
+"Last-Translator: \n"
+"Language-Team: Chinese (China)\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0\n"
+"X-Domain: woocommerce-donation-checkout"
+
+#. Description of the plugin
+msgid "Allow customers to add donation/tip amount for WooCommerce checkout"
+msgstr "让顾客们选择添增捐款或小费给现在的订单。"
+
+#: wc-donation-tip-checkout.php:133
+msgid "Amount"
+msgstr "数目"
+
+#: wc-donation-tip-checkout.php:271
+msgid "Button Label"
+msgstr "按钮标题"
+
+#: wc-donation-tip-checkout.php:283
+msgid "Default Amount"
+msgstr "自定义数目"
+
+#: wc-donation-tip-checkout.php:265
+msgid "Donation/Tip Message"
+msgstr "捐献／小费的留言"
+
+#: wc-donation-tip-checkout.php:258
+msgid "Enable"
+msgstr "启用"
+
+#. URI of the plugin
+msgid "https://terrytsang.com/product/tt-woocommerce-donation-checkout/"
+msgstr "https://terrytsang.com/product/tt-woocommerce-donation-checkout/"
+
+#. Author URI of the plugin
+msgid "https://www.terrytsang.com"
+msgstr "https://www.terrytsang.com"
+
+#: wc-donation-tip-checkout.php:295
+msgid ""
+"Maximum Donation/Tip Amount  <small style=\"color:#cccccc\">(PRO)</small>"
+msgstr "最高捐献／小费的数目 <small style=\"color:#cccccc\">(升级版)</small>"
+
+#: wc-donation-tip-checkout.php:289
+msgid "Minumum Donation/Tip Amount"
+msgstr "最低捐献／小费的数目 "
+
+#: wc-donation-tip-checkout.php:113
+msgid "Please fill in the amount"
+msgstr "请填上数额"
+
+#: wc-donation-tip-checkout.php:301
+msgid ""
+"Predefined Donation Amount List <small style=\"color:#cccccc\">(PRO)</small>"
+msgstr "自定义捐款数目的选项 <small style=\"color:#cccccc\">(升级版)</small>"
+
+#: wc-donation-tip-checkout.php:328
+msgid "Save Options"
+msgstr "储存选项"
+
+#: wc-donation-tip-checkout.php:314
+msgid "Show at Cart Page  <small style=\"color:#cccccc\">(PRO)</small>"
+msgstr "显示在购物车(Cart)的页面 <small style=\"color:#cccccc\">(升级版)</small>"
+
+#: wc-donation-tip-checkout.php:116
+msgid "Sorry, the minimum amount is "
+msgstr "抱歉，最低款项是"
+
+#: wc-donation-tip-checkout.php:307
+msgid "Taxable"
+msgstr "计算税在内"
+
+#. Author of the plugin
+msgid "Terry Tsang"
+msgstr "庆威 (Terry Tsang)"
+
+#: wc-donation-tip-checkout.php:277
+msgid "Title"
+msgstr "标题"
+
+#: wc-donation-tip-checkout.php:185 wc-donation-tip-checkout.php:249
+msgid "TT Donation Checkout"
+msgstr "TT Donation Checkout (捐款小费下单)"
+
+#. Name of the plugin
+msgid "TT Donation Checkout for WooCommerce"
+msgstr "TT Donation Checkout (捐款小费下单) for WooCommerce"
+
+#: wc-donation-tip-checkout.php:220
+msgid "WooCommerce Donation/Tip Checkout options saved."
+msgstr "你成功储存捐献／小费结帐选项。"
+
+#: wc-donation-tip-checkout.php:119
+msgid "You have updated the cart total."
+msgstr "你更新购物车的总额了。"

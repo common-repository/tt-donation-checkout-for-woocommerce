@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TT Donation Checkout for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-19 08:10+0000\n"
+"PO-Revision-Date: 2022-06-19 08:24+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0\n"
+"X-Domain: woocommerce-donation-checkout"
+
+#. Description of the plugin
+msgid "Allow customers to add donation/tip amount for WooCommerce checkout"
+msgstr "Allow customers to add donation/tip amount for WooCommerce checkout"
+
+#: wc-donation-tip-checkout.php:133
+msgid "Amount"
+msgstr "Amount"
+
+#: wc-donation-tip-checkout.php:271
+msgid "Button Label"
+msgstr "Button Label"
+
+#: wc-donation-tip-checkout.php:283
+msgid "Default Amount"
+msgstr "Default Amount"
+
+#: wc-donation-tip-checkout.php:265
+msgid "Donation/Tip Message"
+msgstr "Donation/Tip Message"
+
+#: wc-donation-tip-checkout.php:258
+msgid "Enable"
+msgstr "Enable"
+
+#. URI of the plugin
+msgid "https://terrytsang.com/product/tt-woocommerce-donation-checkout/"
+msgstr "https://terrytsang.com/product/tt-woocommerce-donation-checkout/"
+
+#. Author URI of the plugin
+msgid "https://www.terrytsang.com"
+msgstr "https://www.terrytsang.com"
+
+#: wc-donation-tip-checkout.php:295
+msgid ""
+"Maximum Donation/Tip Amount  <small style=\"color:#cccccc\">(PRO)</small>"
+msgstr ""
+"Maximum Donation/Tip Amount  <small style=\"color:#cccccc\">(PRO)</small>"
+
+#: wc-donation-tip-checkout.php:289
+msgid "Minumum Donation/Tip Amount"
+msgstr "Minumum Donation/Tip Amount"
+
+#: wc-donation-tip-checkout.php:113
+msgid "Please fill in the amount"
+msgstr "Please fill in the amount"
+
+#: wc-donation-tip-checkout.php:301
+msgid ""
+"Predefined Donation Amount List <small style=\"color:#cccccc\">(PRO)</small>"
+msgstr ""
+"Predefined Donation Amount List <small style=\"color:#cccccc\">(PRO)</small>"
+
+#: wc-donation-tip-checkout.php:328
+msgid "Save Options"
+msgstr "Save Options"
+
+#: wc-donation-tip-checkout.php:314
+msgid "Show at Cart Page  <small style=\"color:#cccccc\">(PRO)</small>"
+msgstr "Show at Cart Page  <small style=\"color:#cccccc\">(PRO)</small>"
+
+#: wc-donation-tip-checkout.php:116
+msgid "Sorry, the minimum amount is "
+msgstr "Sorry, the minimum amount is "
+
+#: wc-donation-tip-checkout.php:307
+msgid "Taxable"
+msgstr "Taxable"
+
+#. Author of the plugin
+msgid "Terry Tsang"
+msgstr "Terry Tsang"
+
+#: wc-donation-tip-checkout.php:277
+msgid "Title"
+msgstr "Title"
+
+#: wc-donation-tip-checkout.php:185 wc-donation-tip-checkout.php:249
+msgid "TT Donation Checkout"
+msgstr "TT Donation Checkout"
+
+#. Name of the plugin
+msgid "TT Donation Checkout for WooCommerce"
+msgstr "TT Donation Checkout for WooCommerce"
+
+#: wc-donation-tip-checkout.php:220
+msgid "WooCommerce Donation/Tip Checkout options saved."
+msgstr "WooCommerce Donation/Tip Checkout options saved."
+
+#: wc-donation-tip-checkout.php:119
+msgid "You have updated the cart total."
+msgstr "You have updated the cart total."
